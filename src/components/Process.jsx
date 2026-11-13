@@ -34,7 +34,8 @@ export default function Process() {
         });
         if (!reduced) {
           gsap.from(step.querySelectorAll('.process__anim'), {
-            x: 30,
+            x: window.innerWidth > 900 ? 30 : 0,
+            y: window.innerWidth > 900 ? 0 : 24,
             autoAlpha: 0,
             duration: 1,
             stagger: 0.06,
