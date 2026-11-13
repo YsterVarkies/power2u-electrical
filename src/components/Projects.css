@@ -339,11 +339,23 @@
     display: flex;
     gap: 16px;
     overflow-x: auto;
+    overflow-y: hidden;
     padding-bottom: 12px;
-    scroll-snap-type: x mandatory;
+    /* sideways swipes scroll the row; vertical swipes always go to the page */
+    touch-action: pan-x pan-y;
+    overscroll-behavior-x: contain;
+    overscroll-behavior-y: auto;
+    scroll-snap-type: x proximity;
     scroll-padding-inline: var(--gutter);
     scrollbar-width: none;
     -webkit-overflow-scrolling: touch;
+  }
+
+  .niche__btn,
+  .niche__arch img {
+    touch-action: pan-x pan-y;
+    -webkit-touch-callout: none;
+    -webkit-user-drag: none;
   }
 
   .niches::-webkit-scrollbar {

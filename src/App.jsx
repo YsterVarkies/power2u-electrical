@@ -14,7 +14,7 @@ import Process from './components/Process';
 import Brands from './components/Brands';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
-import { MobileBar, ScrollWire } from './components/Chrome';
+import { ScrollWire } from './components/Chrome';
 
 export default function App() {
   const [stage, setStage] = useState('loading');
@@ -62,7 +62,6 @@ export default function App() {
       </main>
       <Footer />
       <ScrollWire />
-      <MobileBar />
       <div className="grain" aria-hidden="true" />
     </ClickSpark>
   );

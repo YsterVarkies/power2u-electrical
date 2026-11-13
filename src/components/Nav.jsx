@@ -22,7 +22,8 @@ export default function Nav() {
       onUpdate: self => {
         const y = self.scroll();
         el.classList.toggle('is-scrolled', y > 40);
-        const hide = y > 220 && self.direction === 1;
+        // keep the header (and its hamburger) on screen on phones/tablets
+        const hide = y > 220 && self.direction === 1 && window.innerWidth > 1100;
         if (hide !== hidden) {
           hidden = hide;
           gsap.to(el, { yPercent: hide ? -110 : 0, duration: 0.6, ease: hide ? 'power3.in' : 'expo.out', overwrite: true });

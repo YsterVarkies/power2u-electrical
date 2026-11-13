@@ -391,13 +391,3 @@
     padding: 8px 6px 0;
   }
 }
-
-@media (max-width: 768px) {
-  .story__bottom {
-    padding-bottom: 96px;
-  }
-
-  .story__rail {
-    display: none;
-  }
-}
