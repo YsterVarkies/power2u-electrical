@@ -1,0 +1,91 @@
+{
+  "photos": {
+    "dyness-wall": {
+      "slug": "dyness-wall",
+      "width": 1050,
+      "height": 1020,
+      "src": "/media/photos/dyness-wall.webp",
+      "src2x": "/media/photos/dyness-wall@2x.webp",
+      "placeholder": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAABQBACdASoYABcAPu1wrVIppiQiqAqpMB2JZwCuHAJSrwlQTp2fM+FlFA60AKWYf8YdX2oL34r+WL/ztch81XbER1er+6aX4HwWztaL4PJBD5tmZYj99RBWtQnPAAAA"
+    },
+    "workshop-backup": {
+      "slug": "workshop-backup",
+      "width": 1182,
+      "height": 1020,
+      "src": "/media/photos/workshop-backup.webp",
+      "src2x": "/media/photos/workshop-backup@2x.webp",
+      "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABQBACdASoYABUAPuFapU2opSOiN/qoARAcCUAW9wFSfA9PHqR/MKVUMFoIAP67t7wY91gNN2laAeGr7acCTssfSnvVmzYeisAezk7Baxx3loM371BOiMJRpbImbIl/aJcexRxmoAA="
+    },
+    "onsite-roof": {
+      "slug": "onsite-roof",
+      "width": 1360,
+      "height": 1020,
+      "src": "/media/photos/onsite-roof.webp",
+      "src2x": "/media/photos/onsite-roof@2x.webp",
+      "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwBACdASoYABIAPu1mqk+ppSOiMBgIATAdiWUAtOgM+MAsiLNkaKwhChRNi7HxwAAA/e0y61fFVGzeLe1uRcY6URALodJhvPwwgAo/JHxOfigqbCyk4w+XtKBKeRv96KQWhKGAAAA="
+    },
+    "inverter-bank": {
+      "slug": "inverter-bank",
+      "width": 1360,
+      "height": 1020,
+      "src": "/media/photos/inverter-bank.webp",
+      "src2x": "/media/photos/inverter-bank@2x.webp",
+      "placeholder": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwBQCdASoYABIAPu1srlKppaQiqAgBMB2JQBOmZJdABCwVTeFpTockDd0zEqQUj1aNAAD+l/BhTFBXOh56Fg4xcrvLzZb94gH9/Jhn/6WhQZjnXAAukCBBmmnvr0rpZMwUfng+erOfNZ0BOVGkqHEqGgAAAA=="
+    },
+    "rooftop-array": {
+      "slug": "rooftop-array",
+      "width": 1360,
+      "height": 1020,
+      "src": "/media/photos/rooftop-array.webp",
+      "src2x": "/media/photos/rooftop-array@2x.webp",
+      "placeholder": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQBQCdASoYABIAPu1opU2ppiMmMBgMATAdiUAWHYIPqwZsnsLn6EaZQUrtrTIplnWAAP6h0B1CtnB/ec7YV6WeE3jIcnlddfqj9Ey9I/FnCQJHt7eKMKMFSrREABTfAAA="
+    },
+    "carport-garden": {
+      "slug": "carport-garden",
+      "width": 1360,
+      "height": 766,
+      "src": "/media/photos/carport-garden.webp",
+      "src2x": "/media/photos/carport-garden@2x.webp",
+      "placeholder": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwBACdASoYAA4APu1kqk2ppaQiMAgBMB2JQBZwBEQv3nbHzUeAwU651/gA/LPpKBcO6CwpKOBbXUqjEDYqRsvHMa4UXhN5NYQOfy2umpk0qt3bYAA="
+    },
+    "carport-drive": {
+      "slug": "carport-drive",
+      "width": 1360,
+      "height": 766,
+      "src": "/media/photos/carport-drive.webp",
+      "src2x": "/media/photos/carport-drive@2x.webp",
+      "placeholder": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAACwAwCdASoYAA4APu1iqk2ppaQiMAgBMB2JQBOgBD/ZEBzrmH3WoADcixrI280mGRC6udL1EUgSkdBK5KNZnkLI3LoapR+gE94IMAxvCEe3cKWWkhG4oOWBQAA="
+    },
+    "solis-lithium": {
+      "slug": "solis-lithium",
+      "width": 764,
+      "height": 1020,
+      "src": "/media/photos/solis-lithium.webp",
+      "src2x": "/media/photos/solis-lithium@2x.webp",
+      "placeholder": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwBQCdASoYACAAPtleok2oJaMiN/qoAQAbCWUAvzgQTgrdHfHQ8AKhfoR54Uy24Pt6AAD8Uj/hryBB1/XRK1WUjKmQk2+hzYpkbTTbM9GtlfzCkQ1HDEYSf7K7eXPc8jr39Q3T6Mz8uyoAAAA="
+    },
+    "twin-inverter-rack": {
+      "slug": "twin-inverter-rack",
+      "width": 764,
+      "height": 1020,
+      "src": "/media/photos/twin-inverter-rack.webp",
+      "src2x": "/media/photos/twin-inverter-rack@2x.webp",
+      "placeholder": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQBQCdASoYACAAPu1oqk6ppiQiMAgBMB2JZQDLLBtVzODKlu5/PYPfCoL7sADAZjcAAP5S+kQdbJk0be+u08jcpdJq6L/FfxtsxI4LAJV0Rj9fjv8MVNHWt3lCBxfy/F91QmCwqcfLmAAA"
+    },
+    "solis-db-board": {
+      "slug": "solis-db-board",
+      "width": 688,
+      "height": 1020,
+      "src": "/media/photos/solis-db-board.webp",
+      "src2x": "/media/photos/solis-db-board@2x.webp",
+      "placeholder": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAACwBQCdASoYACQAPulkp02pJaOiMAqpIB0JZQDA3CvNDWM5ZVnPNEJsnSxLJike6VXVKzfhfgAA/tlTnuQv8A/ZGMORp00CMrd0z8iKplOkL3nyiwx2TNGe7xKHff9vHEX1DTc7Ni5TlK12wOO8qdcTLsiBdfilX5e5+NylsTGwf+MkBtK82prIwShxUemcwAA="
+    }
+  },
+  "video": {
+    "mp4": "/media/video/hero-grid.mp4",
+    "webm": "/media/video/hero-grid.webm",
+    "mp4Mobile": "/media/video/hero-grid-mobile.mp4",
+    "webmMobile": "/media/video/hero-grid-mobile.webm",
+    "poster": "/media/video/hero-grid-poster.jpg"
+  }
+}

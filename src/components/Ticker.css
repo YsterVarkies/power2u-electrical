@@ -1,0 +1,34 @@
+.ticker {
+  position: relative;
+  z-index: 2;
+  padding: 26px 0;
+  border-block: 1px solid var(--line);
+  background: linear-gradient(to bottom, var(--ink), var(--ink-1));
+}
+
+.ticker__item {
+  display: inline-flex;
+  align-items: center;
+  gap: 34px;
+}
+
+.ticker__word {
+  font-size: clamp(1.6rem, 3vw, 2.6rem);
+  font-weight: 300;
+  letter-spacing: -0.01em;
+  line-height: 1;
+  color: var(--text-2);
+  white-space: nowrap;
+  transition: color 0.3s;
+}
+
+.ticker__item:hover .ticker__word {
+  color: var(--text);
+}
+
+.ticker__bolt {
+  width: 22px;
+  height: 22px;
+  color: var(--volt);
+  filter: drop-shadow(0 0 8px var(--volt-glow));
+}
